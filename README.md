@@ -1,1 +1,1 @@
-### 👋 Hey there, welcome to my GitHub profile! My name is **Braydon** and I'm a self-taught developer. I've been doing Java for almost 3 years, and I've recently been getting into other languages such as JavaScript, PHP, Kotlin, and C#.
+### 👋 Hey there, welcome to my GitHub! My name is **Braydon** and I'm a self-taught developer. I've been doing Java for almost 3 years, and I've recently been getting into other languages such as JavaScript, PHP, Kotlin, and C#.

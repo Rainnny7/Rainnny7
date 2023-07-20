@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Braydon 👋</h1>
   <h3><a href="https://rainnny.club">See my site for more</a></h3>
   <img src="https://komarev.com/ghpvc/?username=rainnny7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/endpoint?url=https://wakatime.rainnny.club/api/compat/shields/v1/Rainnny/interval:30_days&label=Coding Time (30d)" alt="Coding Time (30 Days)"/>
+  <img src="https://img.shields.io/endpoint?url=https://wakatime.rainnny.club/api/compat/shields/v1/Rainnny/interval:30_days&label=Coding%20Time%20(30d)" alt="Coding Time (30 Days)"/>
 </div>
 
 <!-- Contact -->

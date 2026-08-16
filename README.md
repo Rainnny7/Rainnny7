@@ -10,6 +10,7 @@
 <div>
   <h2>Contact</h2>
   <span><b>Discord</b> - rainnny7</span>
+  <span><b>Email</b> - braydonrainnny@gmail.com</span>
 </div>
 
 <!-- Stats -->

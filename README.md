@@ -9,7 +9,7 @@
 <!-- Contact -->
 <div>
   <h2>Contact</h2>
-  <span><b>Discord</b> - rainnny7</span>
+  <span><b>Discord</b> - rainnny7</span><br>
   <span><b>Email</b> - braydonrainnny@gmail.com</span>
 </div>
 
